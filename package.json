@@ -1,0 +1,16 @@
+{
+  "name": "demo-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node destructuring.js",
+    "start-restAndSpread": "node restAndSpread.js",
+    "start-destructuring": "node destructuring.js",
+    "start-oop2": "node oop2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
